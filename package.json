@@ -1,0 +1,10 @@
+{
+  "name": "minimal-face",
+  "version": "1.0.0",
+  "description": "Minimal digital watch face for Amazfit T-Rex 3 Pro",
+  "main": "app.js",
+  "private": true,
+  "devDependencies": {
+    "@zeppos/device-types": "^3.0.0"
+  }
+}
